@@ -35,8 +35,8 @@ author:
   family: Pouplin
 - given: Dimitrios
   family: Kalatzis
-- given: ");"
-  family: Soren Hauberg
+- given: Soren
+  family: Hauberg
 date: 2022-05-03
 address:
 container-title: Proceedings of The 25th International Conference on Artificial Intelligence
