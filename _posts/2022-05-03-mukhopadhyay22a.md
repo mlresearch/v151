@@ -27,11 +27,11 @@ lastpage: 365
 page: 342-365
 order: 342
 cycles: false
-bibtex_author: Mukhopadhyay, Samrat and Sourav Sahoo, Dhanbad); and Sinha, Abhishek
+bibtex_author: Mukhopadhyay, Samrat and Sourav Sahoo, Dhanbad and Sinha, Abhishek
 author:
 - given: Samrat
   family: Mukhopadhyay
-- given: Dhanbad);
+- given: Dhanbad
   family: Sourav Sahoo
 - given: Abhishek
   family: Sinha
