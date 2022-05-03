@@ -25,7 +25,7 @@ page: 4872-4894
 order: 4872
 cycles: false
 bibtex_author: Arvanitidis, Georgios and Gonz\'alez-Duque, Miguel and Pouplin, Alison
-  and Kalatzis, Dimitrios and Soren Hauberg, );
+  and Kalatzis, Dimitrios and Hauberg, Soren
 author:
 - given: Georgios
   family: Arvanitidis
@@ -35,8 +35,8 @@ author:
   family: Pouplin
 - given: Dimitrios
   family: Kalatzis
-- given: ");"
-  family: Soren Hauberg
+- given: Soren
+  family: Hauberg
 date: 2022-05-03
 address:
 container-title: Proceedings of The 25th International Conference on Artificial Intelligence
