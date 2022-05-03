@@ -30,13 +30,13 @@ lastpage: 11117
 page: 11096-11117
 order: 11096
 cycles: false
-bibtex_author: Fasoulakis, Michail and Evangelos Markakis, ); and Pantazis, Yannis
+bibtex_author: Fasoulakis, Michail and Markakis, Evangelos and Pantazis, Yannis
   and Varsos, Constantinos
 author:
 - given: Michail
   family: Fasoulakis
-- given: ");"
-  family: Evangelos Markakis
+- given: Evangelos
+  family: Markakis
 - given: Yannis
   family: Pantazis
 - given: Constantinos
